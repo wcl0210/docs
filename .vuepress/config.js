@@ -1,5 +1,5 @@
 module.exports = {
-  base: "./",
+  base: "/docs/",
   // 将显示在导航栏上
   title: "适之",
   // 将配置到meta标签中
